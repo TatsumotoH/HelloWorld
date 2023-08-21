@@ -1,0 +1,11 @@
+Package: HelloWorld
+Type: Package
+Title: Toy Package for My Practice
+Version: 0.1.0
+Author: H.Tatsumoto
+Maintainer: H.Tatsumoto <hirofumi.tatsumoto@gmail.com>
+Description: This package is a toy package for my practice.
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
